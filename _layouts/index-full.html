@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% include head.html %}
+    </head>
+
+    <body class="index">
+       <header class="head">
+           {% include header.html %}
+           {% include nav.html %}
+        </header>
+        {% include search.html %}
+        <div class="margin">
+            <div class="content aboutme no-bottom-pad">
+                      {% include aboutme.html %}
+            </div>
+            <div class="content">
+                {% if page.title1 %}
+                    <a class="placeholder" id="current"><div></div></a>
+                    <h3 class="project-title-container"><a class="title projects">{{ page.title1 }}</a></h3>
+                {% endif %}
+                <div class="articles no-bottom-pad">
+                    {% for post in paginator.posts %}
+                        {%if post.current == 1 %}
+                            {% include article_index.html %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                {% if page.title2 %}
+                    <a class="placeholder" id="past"><div></div></a>
+                    <h3 class="project-title-container"><a id="past" class="title projects">{{ page.title2 }}</a></h3>
+                {% endif %}
+                <div class="articles">
+                    {% for post in paginator.posts %}
+                        {%if post.current != 1 %}
+                            {% include article_index.html %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                {% include contactme.html %}
+            </div>
+        </div>
+        {% include footer.html %}
+        {% if site.infinite_scroll == true %}
+            <script src="{{ site.baseurl | replace: '//', '/' }}/js/build/infinite.min.js"></script>
+        {% endif %}
+    </body>
+</html>

@@ -1,0 +1,11 @@
+{% if page.extra_video %}
+    <div class="video-container">
+        {{ page.extra_video }}
+    </div>
+{% endif %}
+{% if page.extra_img1 %}
+    <img class="featimg extimg" src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ page.extra_img1 }}" alt="{{ page.extra_img1 }}">
+{% endif %}
+{% if page.extra_img2 %}
+    <img class="featimg extimg" src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ page.extra_img2 }}" alt="{{ page.extra_img2 }}">
+{% endif %}
