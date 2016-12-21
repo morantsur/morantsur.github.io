@@ -14,7 +14,7 @@ What started with office visits and an annual conference, has evolved into a hol
 
 I led the program, with a core team of volunteers in 2014-2015, and together we reorganized the program and scaled it up. We chose 40 schools, and with them we decided to "go deeper". Each school will participate in the four components of the program, for three years.
 
-* School visits - The goal of these visits is to expose ninth grade girls to the world of technology around them, interest them in the field of Computer Science, and provide access to role models in the field. A 2 hour visit includes a presentation about technology in the real world, Q&A with engineers, and a tour of the office.
+* School visits - The goal of these visits is to expose ninth grade girls to the world of technology around them, spark their interest in the field of Computer Science, and provide access to role models in the field. A two hour visit includes a presentation about technology in the real world, Q&A with Google engineers, and a tour of the office.
 
 * MentorIt - A program intended to scale Google’s reach by encouraging high school girls already studying CS to become CS “ambassadors” at their schools. These mentors are encouraged to serve as a source of knowledge and inspiration for female 9th grade students by delivering CS classes and making themselves accessible for questions.
 

@@ -9,39 +9,10 @@ TODO: [add presentation files]
 show-bottom: true
 ---
 
-After the great success of the Scratch Day event, we created a workshop for teachers in cooperation with the Computer Science Education Branch of the Ministry of Education.
+At Google, we created a workshop for teachers on teaching in a project based approach, in collaboration with the Computer Science Department of the Ministry of Education. This came as a request from the teachers after we hosted a Scratch Day event where we invited the children to present projects to Google engineers.
 
-The workshop focused on taking ideas from Google and the world of software engineering, and finding ways to apply those ideas in a project oriented Scratch class. 
-The teachers also went through the process themselves - they thought of ideas, planned their projects, broke it up to a few versions and executed small parts of it. 
+The workshop focused on using ideas and processes from the world of software engineering and specifically Google, and adapting them to a classroom setting where students are working with Scratch. This was a participatory workshop, where the teachers experienced the whole process of creating a project themselves.
 
-25 teachers participated in the first workshop, and each one will now give a workshop to another 10 teachers in their district. 
+We covered topics ranging from how to come up with ideas and how to break a big project into smaller steps, through teaching debugging and advanced Scratch tools to How to encourage creativity and collaboration.
 
-Topics discussed:
-
-* Ideas
-
-    * Inspiration - where do ideas come from?
-    * Google's innovation encouragement techniques - 20%, demo days and more.
-    * Hackathon style idea pitching workshop - "the sticky-note" method.
-    * How to encourage creativity through exposing to many different examples.
-
-* Planning
-
-    * Versioning - a guiding line in breaking  a big project and divide it to small, meaningful components.
-    * "From Many to One" rule of thumb.
-    * "My project" worksheet - Help your students plan their projects. 
-
-* Executing
-
-    * Debugging methods.
-    * Teaching debugging.
-    * Working in a team - the backpack, remixing, using studios, 
-    * Advanced Scratch tools - functions, clones.
-
-* External resources
-
-    * the Curriculum Guide
-    * ScratchEd
-    * scratch.org.il
-
-* and more...
+25 teachers participated in the first workshop, and each one was to give a workshop to another 10 teachers in their district.

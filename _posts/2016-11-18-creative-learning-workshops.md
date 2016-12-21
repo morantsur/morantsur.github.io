@@ -18,12 +18,12 @@ I worked with groups of children, educators, youth counselors and researchers, a
 
 A few example include:
 
-* Teaching Assistant in two Media Lab classes: ["Learning Creative Learning"](http://lcl.media.mit.edu/2016) and "Toys to Think with", Spring, 2015.
+* Teaching Assistant in two Media Lab classes: ["Learning Creative Learning"](http://lcl.media.mit.edu/2016) and "Toys to Think with", Spring, 2016.
 
-* 1-week Learning Creative Learning Workshop with educators in university of Tsinghua, Beijing, China, Fall, 2016.
+* 1-week Learning Creative Learning Workshop with educators in the University of Tsinghua, Beijing, China, Fall, 2016.
+
+* [Get Creative with Coding]("https://dml2016.sched.com/event/7Ekr/get-creative-with-coding-dance-sports-and-other-interests"), Digital Media and Learning Confernce, October 2016.
 
 * Scratch and LEGO WeDo workshop, Sandbox Summit, MIT, April, 2016.
 
 * Scratch and the Physical World, Computer Clubhouse Conference, March, 2016.
-
-* [Get Creative with Coding]("https://dml2016.sched.com/event/7Ekr/get-creative-with-coding-dance-sports-and-other-interests"), Digital Media and Learning Confernce, October 2016.

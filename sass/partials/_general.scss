@@ -32,6 +32,10 @@ body{
     @include paddinghack(100%, 16, 9, "iframe");
 }
 
+.video-container-full-page {
+    @include paddinghack(50%, 16, 9, "iframe");
+}
+
 .margin{
     padding-top: 50px;
     width: 100%;
