@@ -5,6 +5,7 @@ featimg: liveresults.png
 title: Live Results @ Google
 subtitle: Direct Answers to User Queries
 tags: [Porgramming]
+show-bottom: true
 ---
 
 I was a software engineer in the Live Results team for 3 years, and built products that provide direct answers to user queries in variety of domains.
@@ -32,8 +33,9 @@ An interactive translation onebox, that comes up when you search for [translate]
 It's interactive and works with voice queries. I worked on the UI of the project.
 
 ## Sports
-### NBA, NFL, over a 100 soccer leagues, NCAA March Madness, Soccer World Cup, and more
-Built product that answer user queries about a team's schedule, scores and standings in the league. We provide answers in many languages, and for local leagues as well as international ones.
+NBA, NFL, over a 100 soccer leagues, NCAA March Madness, Soccer World Cup, and more
+
+Built products that answer user queries about a team's schedule, scores and standings in the league. We provide answers in many languages, and for local leagues as well as international ones.
 I worked on any part of the system - from understanding the user's intent and packaging the right answer to it, through the automatic ingestion of the data feeds from the leagues, to the UI/UX of the final experience.
 
 ## London Olympics 2012

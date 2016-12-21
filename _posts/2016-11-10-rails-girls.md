@@ -9,6 +9,7 @@ gallery:
     - images:
       - filename: railsgirls1.jpg
       - filename: railsgirls2.jpg
+show-bottom: true
 ---
 
 Rails Girls is a workshop for women, many with no coding experience, where they learn how to build a website using Ruby on Rails and Python in a day.

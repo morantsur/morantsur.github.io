@@ -6,6 +6,7 @@ title: SubtractEd
 subtitle: Personal Tutor for Subtraction
 homedisplay: iframe
 tags: [Programming]
+show-bottom: true
 ---
 
 A small project that combines statistical models with a misconceptions based model for learning subtractions.
